@@ -4,7 +4,7 @@ Hello, Im Tran Quoc Cuong, a student from MIPT.
 
 I made **Tic Tac Toe** with pygame.
 
-In this game, you have only one mission: dodge as many cars as possible.
+You can win this game whenever you get 3 of your marks in a row (up, down, across, or diagonally) 
 
 ## Start game:
 Clone repository
