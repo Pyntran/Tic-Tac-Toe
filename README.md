@@ -2,7 +2,7 @@
 
 Hello, Im Tran Quoc Cuong, a student from MIPT.
 
-Im making **Tic Tac Toe** with pygam.
+I made **Tic Tac Toe** with pygame.
 
 In this game, you have only one mission: dodge as many cars as possible.
 
