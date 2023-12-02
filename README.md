@@ -1,4 +1,4 @@
-# Car_dodge_game
+# Tic Tac Toe
 
 Hello, Im Tran Quoc Cuong, a student from MIPT.
 
